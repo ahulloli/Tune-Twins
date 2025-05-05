@@ -20,14 +20,7 @@ You can find artist models at [RVC AI Voice model archive](https://docs.google.c
 
 
 By:
-[Aidan Burrowes](linkedin.com/in/aidanburrowes/)
-[Abraham Stefanos](linkedin.com/in/abrahamstefanos/)
-[Gebril Fradj](linkedin.com/in/gebrilfradj/)
-
-
-Demo:
-
-https://youtu.be/0A26w3tZ7yc
+Arya Hulloli
 
 
 Credits:
