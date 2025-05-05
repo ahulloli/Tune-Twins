@@ -19,10 +19,6 @@ pip install -r requirements.txt
 You can find artist models at [RVC AI Voice model archive](https://docs.google.com/spreadsheets/d/1leF7_c2Qf5iQRVkmOF51ZSynOvEjz8fHqwriX1wUMPw/edit#gid=1227575351) and [AI Hub on discord](https://discord.com/invite/aihub)
 
 
-By:
-Arya Hulloli
-
-
 Credits:
 
 RVC GUI by Tiger14n at https://github.com/Tiger14n/RVC-GUI
